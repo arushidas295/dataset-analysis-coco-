@@ -1,0 +1,5 @@
+torchvision
+pycocotools
+matplotlib
+Pillow
+numpy
